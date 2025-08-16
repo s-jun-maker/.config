@@ -1,6 +1,6 @@
 # App shortcuts
 alt - v : open -a 'Visual Studio Code'
-alt - c : open -a 'chatGpt'
+alt - c : open -a 'claude'
 alt - s : open -a 'Slack'
 alt - i : open -a 'Ghostty'
 alt - b : open -a 'Brave Browser'
