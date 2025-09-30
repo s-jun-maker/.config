@@ -1,8 +1,7 @@
 # App shortcuts
-alt - v : open -a 'Visual Studio Code'
+alt - w : open -a 'webStorm'
 alt - s : open -a 'Slack'
 alt - i : open -a 'Ghostty'
 alt - b : open -a 'Brave Browser'
-alt - n : open -a 'notion'
-alt - c : open -a 'chatGPT'
+alt - o : open -a 'obsidian'
 alt - x : open -a 'xcode'
